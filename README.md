@@ -1,6 +1,32 @@
 ## Hi there  👋
 ## hello every one
 <h2 style:"background-color🧧">hello everyone</h2>
+<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+
+<p align="center">
+    <img src="https://link-to-your-image.com/photo.jpg" width="200" height="200">
+</p>
+
+## About Me
+I am a full-stack developer specializing in the MERN stack and a student at Coding Ninjas.
+
+<h2>🛠 Skills</h2>
+
+<table>
+    <tr>
+        <td><b>Languages</b></td>
+        <td>JavaScript, HTML, CSS</td>
+    </tr>
+    <tr>
+        <td><b>Frameworks/Libraries</b></td>
+        <td>React, Node.js, Express</td>
+    </tr>
+</table>
+
+## 📫 Let's Connect!
+- <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a>
+- <a href="mailto:your-email@example.com">Email</a>
+
 <!--
 **AjayPrajapathi/AjayPrajapathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h2>hello everyone</h2>
