@@ -1,4 +1,6 @@
 ## Hi there  👋
+<p style="background-color:yellow; padding:5px;">This text has a yellow background.</p>
+
 ## hello every one
 <h2 style="backgroundcolor:red">hello everyone</h2>
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
