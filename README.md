@@ -1,6 +1,6 @@
 ## Hi there  👋
 ## hello every one
-<h2 style:"background-color🧧">hello everyone</h2>
+<h2 style="background-color:red">hello everyone</h2>
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
 <p align="center">
