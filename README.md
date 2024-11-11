@@ -15,7 +15,7 @@
 <br/>
 ### About Me
 
-I'm passionate about Web Development, Data Science, and Game Development and I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and I'm always eager to learn new skills.
+I'm passionate about Web Development and I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and I'm always eager to learn new skills.
 
 I'm always open to new opportunities and collaborations, so feel free to get in touch with me. Let's build something great together!
 
