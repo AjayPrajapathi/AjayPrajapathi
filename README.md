@@ -36,12 +36,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
     alt="python"
   />
 </a>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-<img
-    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
-    alt="csharp"
-  />
-</a>
+
 </div>
 
 <br/>
