@@ -19,7 +19,7 @@ I'm passionate about Web Development and I love using technology to create innov
 
 I'm always open to new opportunities and collaborations, so feel free to get in touch with me. Let's build something great together!
 
-<div align='center'><a href="https://github.com/AjayPrajapathi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="linkedin.com/in/ajay-prajapathi-014486265" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:prajapathi6821@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<div align='center'><a href="https://github.com/AjayPrajapathi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/ajay-prajapathi-014486265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpR1mjn7qT5ym%2BCOHToqhBA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:prajapathi6821@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </div>
 <br/>
 <h4>Programming Languages:</h4>
