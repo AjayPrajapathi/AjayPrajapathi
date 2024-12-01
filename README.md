@@ -73,7 +73,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
     alt="firebase"
   />
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=black&color=fcf403" alt="flask" /> </a>
+
 
 </div>
 
@@ -87,4 +87,4 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 </div>
 
 <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
